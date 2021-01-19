@@ -1,0 +1,15 @@
+{
+  "name": "stdmqtt",
+  "version": "1.0.0",
+  "description": "library containing some mqtt utity functions",
+  "main": "stdMqtt.js",
+  "scripts": {
+    "test": "node stdMqttTests.js"
+  },
+  "keywords": [
+    "mqtt utils",
+    "mqtt helpers"
+  ],
+  "author": "marcin",
+  "license": "MIT"
+}
